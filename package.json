@@ -1,0 +1,12 @@
+{
+  "name": "handleanonymouscomments",
+  "version": "1.0.0",
+  "description": "handling get and post ",
+  "license": "ISC",
+  "author": "Şengül Akkaya",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch server.js"
+  }
+}
