@@ -1,0 +1,116 @@
+.upload-page-div{
+   width: 400px;
+   height: 400px;
+   background-color: rgb(179, 171, 171);
+   margin: 200px auto;
+   border-radius: 10px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   border: 1px solid black;
+   box-shadow: 0px 0px 10px black;
+   
+
+}
+.input{
+    width: 300px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+    font-family: cursive,sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 5px black;
+}
+.container{
+    height: 400px;
+    width: 400px;
+    margin: 200px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+    border: 1px solid rgb(207, 113, 129);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(207, 113, 129);
+
+}
+button{
+    width: 200px;
+    padding: 20px 30px;
+    box-sizing: border-box;
+    font-family: cursive,sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    margin: 10px 0px;
+    border: 1px solid rgb(207, 113, 129);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(207, 113, 129);
+}
+#img-404{
+    width: 800px;
+    height: 500px;
+    margin: 0px auto;
+    background-image: url(./images/404-img.jpg);
+    background-image: cover;
+
+}
+.dark-page{
+    background-color: rgb(54, 51, 59);
+}
+.commment-div{
+    width: 250px;
+    background-color: transparent;
+    padding: 20px 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px black;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px 5px;
+
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 50px 0;
+    display: flex;
+    justify-content: center;
+}
+li{
+    padding: 10px 20px;
+    margin: 0px 2px;
+    border-radius: 4px;
+    font-size: large;
+    font-weight: bold;
+}
+#tr-li{
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+}
+#jp-li{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+}
+#kr-li{
+    background-color: white;
+    color: blue;
+    border-bottom: 1px solid red;
+    border-right: 1px solid red;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
+.comment-body{
+    background-color:  rgb(199, 185, 187);
+    margin: 0px;
+}
+#comment-section{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
