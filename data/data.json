@@ -1,122 +1,128 @@
 [
   {
     "id": 1,
-    "country": "Türkiye",
-    "header": "Asgari ücret eridi gitti",
-    "comment": "Ya markete gidiyorum cebimdeki para eriyip gidiyor, bu enflasyon ne zaman bitecek cidden bıktık artık."
-  },
-  {
-    "id": 2,
-    "country": "South Korea",
-    "header": "Yemek teslimat hızı efsane",
-    "comment": "Gece yarısı sipariş verdim 15 dakikada kapıdaydı, ülkedeki bu hız olayına hep şoke oluyorum ya."
-  },
-  {
-    "id": 3,
-    "country": "Japan",
-    "header": "Metrodaki o sessizlik",
-    "comment": "Trende kimse telefonda yüksek sesle konuşmuyor, herkesin birbirine saygısı inanılmaz iyi düzeyde."
-  },
-  {
-    "id": 4,
-    "country": "Türkiye",
-    "header": "Kpss ve mülakatlar",
-    "comment": "Yıllarca çalışıp yüksek puan alıyorsun ama mülakatta eleniyorsun, adalet bunun neresinde?"
-  },
-  {
-    "id": 5,
-    "country": "South Korea",
-    "header": "Giriş sınavı stresi",
-    "comment": "Sonsuz bir yarış içindeyiz resmen, liseden beri çocukların omuzlarında kocaman bir baskı var yazık."
-  },
-  {
-    "id": 6,
-    "country": "Japan",
-    "header": "Otomat cenneti",
-    "comment": "Sokağın başında bile sıcak kahve veren otomat var, şu teknoloji her yerde olsa keşke."
-  },
-  {
-    "id": 7,
-    "country": "Türkiye",
-    "header": "İstanbul trafiği ömrümü yedi",
-    "comment": "Sabah işe giderken 2 saat yolda geçiyor, eve dönerken yine aynı kabus ömrümüz yollarda bitiyor."
-  },
-  {
-    "id": 8,
-    "country": "South Korea",
-    "header": "Dizideki mekanlar",
-    "comment": "Dün izlediğim dizideki o kafeye bugün gittim, Kore'de her köşe başı adeta set gibi."
-  },
-  {
-    "id": 9,
-    "country": "Japan",
-    "header": "Deprem anındaki soğukkanlılık",
-    "comment": "Geçenki sarsıntıda herkes o kadar sakindi ki, adamlar bu işin eğitimini küçükten almış cidden."
-  },
-  {
-    "id": 10,
-    "country": "Türkiye",
-    "header": "Kira fiyatları uçmuş",
-    "comment": "Asgari ücretle ev kiralamak imkansız hale geldi, ev sahipleri insafı tamamen bırakmış durumda."
-  },
-  {
-    "id": 11,
-    "country": "South Korea",
-    "header": "Cilt bakım ürünleri",
-    "comment": "Buradaki kozmetik marketlerdeki indirimler başka hiçbir yerde yok, resmen stok yaptım."
-  },
-  {
-    "id": 12,
-    "country": "Japan",
-    "header": "Sokaklar tertemiz",
-    "comment": "Ortalıkta hiç çöp kutusu yok ama yerlerde tek bir iz bile bulamazsın, bu nasıl bir kültür ya."
-  },
-  {
-    "id": 13,
-    "country": "Türkiye",
-    "header": "Kahve fiyatları",
-    "comment": "Zincir kafelerde bir bardak filtre kahve lüks oldu resmen, dışarıda kahve içmek hayal oldu."
-  },
-  {
-    "id": 14,
-    "country": "South Korea",
-    "header": "Gece dışarısı çok güvenli",
-    "comment": "Saat kaç olursa olsun sokakta tek başına yürürken sıfır endişe, bu hissi çok seviyorum."
-  },
-  {
-    "id": 15,
     "country": "Japan",
     "header": "Tren saatleri dakik",
     "comment": "Tren 1 dakika geç kalırsa makinist özür diliyor, bizde olsa saatlerce bekliyoruz valla."
   },
   {
-    "id": 16,
+    "id": 2,
     "country": "Türkiye",
-    "header": "Gençlerin yurtdışı hayali",
-    "comment": "Herkesin tek konuştuğu şey bilet alıp kaçmak, yeni nesil ülkeden umudunu kesmiş durumda."
+    "header": "Asgari ücret eridi gitti",
+    "comment": "Ya markete gidiyorum cebimdeki para eriyip gidiyor, bu enflasyon ne zaman bitecek cidden bıktık artık."
   },
   {
-    "id": 17,
-    "country": "South Korea",
-    "header": "İnternet hızı mükemmel",
-    "comment": "İndirme yaparken yüzde yüz verim alıyorsun, buradaki hızdan sonra başka yerde internet kullanamam."
-  },
-  {
-    "id": 18,
+    "id": 3,
     "country": "Japan",
-    "header": "Kira ve evler ufak",
-    "comment": "Odalar cidden kutu kadar ama yine de eşyaları öyle bir yerleştiriyorlar ki alan ferah duruyor."
+    "header": "Emeklilik hayal oldu",
+    "comment": "Yıllarca çalışıp prim dolduruyoruz ama yaş takıldı, mezarda emekli olacağız galiba bu gidişle."
   },
   {
-    "id": 19,
+    "id": 4,
+    "country": "South Korea",
+    "header": "Gece dışarısı çok güvenli",
+    "comment": "Saat kaç olursa olsun sokakta tek başına yürürken sıfır endişe, bu hissi çok seviyorum."
+  },
+  {
+    "id": 5,
+    "country": "Japan",
+    "header": "Sokaklar tertemiz",
+    "comment": "Ortalıkta hiç çöp kutusu yok ama yerlerde tek bir iz bile bulamazsın, bu nasıl bir kültür ya."
+  },
+  {
+    "id": 6,
+    "country": "Türkiye",
+    "header": "Kira fiyatları uçmuş",
+    "comment": "Asgari ücretle ev kiralamak imkansız hale geldi, ev sahipleri insafı tamamen bırakmış durumda."
+  },
+  {
+    "id": 7,
+    "country": "South Korea",
+    "header": "Giriş sınavı stresi",
+    "comment": "Sonsuz bir yarış içindeyiz resmen, liseden beri çocukların omuzlarında kocaman bir baskı var yazık."
+  },
+  {
+    "id": 8,
+    "country": "Japan",
+    "header": "Deprem anındaki soğukkanlılık",
+    "comment": "Geçenki sarsıntıda herkes o kadar sakindi ki, adamlar bu işin eğitimini küçükten almış cidden."
+  },
+  {
+    "id": 9,
     "country": "Türkiye",
     "header": "Yaz tatili hayal oldu",
     "comment": "Eskiden her yaz sahile giderdik şimdi sadece fotoğraflara bakıp iç çekiyoruz, durumlar berbat."
   },
   {
-    "id": 20,
+    "id": 10,
+    "country": "Japan",
+    "header": "Cilt bakım ürünleri",
+    "comment": "Buradaki kozmetik marketlerdeki indirimler başka hiçbir yerde yok, resmen stok yaptım."
+  },
+  {
+    "id": 11,
+    "country": "South Korea",
+    "header": "Metrodaki o sessizlik",
+    "comment": "Trende kimse telefonda yüksek sesle konuşmuyor, herkesin birbirine saygısı inanılmaz iyi düzeyde."
+  },
+  {
+    "id": 12,
+    "country": "Türkiye",
+    "header": "İstanbul trafiği ömrümü yedi",
+    "comment": "Sabah işe giderken 2 saat yolda geçiyor, eve dönerken yine aynı kabus ömrümüz yollarda bitiyor."
+  },
+  {
+    "id": 13,
     "country": "South Korea",
     "header": "Çalışma saatleri çok ağır",
     "comment": "Akşam mesai bitiyor ama patron çıkmadan kimse çıkamıyor, sosyal hayat diye bir şey kalmıyor."
+  },
+  {
+    "id": 14,
+    "country": "Japan",
+    "header": "Otomat cenneti",
+    "comment": "Sokağın başında bile sıcak kahve veren otomat var, şu teknoloji her yerde olsa keşke."
+  },
+  {
+    "id": 15,
+    "country": "Türkiye",
+    "header": "Kpss ve mülakatlar",
+    "comment": "Yıllarca çalışıp yüksek puan alıyorsun ama mülakatta eleniyorsun, adalet bunun neresinde?"
+  },
+  {
+    "id": 16,
+    "country": "South Korea",
+    "header": "İnternet hızı mükemmel",
+    "comment": "İndirme yaparken yüzde yüz verim alıyorsun, buradaki hızdan sonra başka yerde internet kullanamam."
+  },
+  {
+    "id": 17,
+    "country": "Japan",
+    "header": "Kira ve evler ufak",
+    "comment": "Odalar cidden kutu kadar ama yine de eşyaları öyle bir yerleştiriyorlar ki alan ferah duruyor."
+  },
+  {
+    "id": 18,
+    "country": "Türkiye",
+    "header": "Kahve fiyatları",
+    "comment": "Zincir kafelerde bir bardak filtre kahve lüks oldu resmen, dışarıda kahve içmek hayal oldu."
+  },
+  {
+    "id": 19,
+    "country": "South Korea",
+    "header": "Yemek teslimat hızı efsane",
+    "comment": "Gece yarısı sipariş verdim 15 dakikada kapıdaydı, ülkedeki bu hız olayına hep şoke oluyorum ya."
+  },
+  {
+    "id": 20,
+    "country": "Türkiye",
+    "header": "Gençlerin yurtdışı hayali",
+    "comment": "Herkesin tek konuştuğu şey bilet alıp kaçmak, yeni nesil ülkeden umudunu kesmiş durumda."
+  },
+  {
+    "id": 21,
+    "country": "South Korea",
+    "header": "Dizideki mekanlar",
+    "comment": "Dün izlediğim dizideki o kafeye bugün gittim, Kore'de her köşe başı adeta set gibi."
   }
 ]

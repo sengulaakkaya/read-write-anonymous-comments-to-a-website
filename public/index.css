@@ -86,23 +86,23 @@ li{
     font-size: large;
     font-weight: bold;
 }
-#tr-li{
+.turkiye{
     background-color: red;
     color: white;
-    border: 1px solid white;
+    border: 2px solid white;
 }
-#jp-li{
+.japan{
     background-color: white;
     color: red;
-    border: 1px solid red;
+    border: 2px solid red;
 }
-#kr-li{
+.skorea{
     background-color: white;
     color: blue;
-    border-bottom: 1px solid red;
-    border-right: 1px solid red;
-    border-top: 1px solid black;
-    border-left: 1px solid black;
+    border-bottom: 2px solid red;
+    border-right: 2px solid red;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
 }
 .comment-body{
     background-color:  rgb(199, 185, 187);

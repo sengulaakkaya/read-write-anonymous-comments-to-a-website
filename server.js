@@ -16,7 +16,7 @@ const server = http.createServer(async(req,res) => {
             return await handlePost(req,res)
         }
         else{
-
+            return res.end("Noooo")
         }
     }
     else if(!req.url.startsWith("/api")){

@@ -8,5 +8,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node --watch server.js"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1"
   }
 }
